@@ -1,5 +1,5 @@
 # ScratchFW 0.2
-![title](http://lstv.ml/cdn/dock/uploads/KBj0Gzz1Aesfw_b.png)
+![title](http://lstv.space/archive/experiments/scratch_fw/logo.png)
 ### About
 This is an completly custom text-based Scratch 3.0 GUI.
 It is made from complete scratch and can load and edit the project.json files.
